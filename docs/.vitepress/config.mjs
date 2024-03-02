@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "XMFLS-BILLIARDS",
   description: "XMFLS-BILLIARDS WEBSITE",
-  base: './',
+  base: './XMFLS-BILLIARDS/',
   head: [
     ['link', { rel: 'icon', href: '/img/XMFLS.png' }],
   ],
