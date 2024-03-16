@@ -49,8 +49,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/0wwind/XMFLS-BILLIARDS' }
     ],
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 XMFLS-BILLIARDS'
+      message: 'Copyright © 2024 XMFLS-BILLIARDS',
+      copyright: 'All right reserved'
     },
     docFooter: {
       prev: '上一页',
