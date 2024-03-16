@@ -13,8 +13,9 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       { text: '规则', link: '/rules/厦外台球室管理制度.md' },
-      { text: '段赛', link: '/race/' },
+      { text: '段赛', link: '/race/海报.md' },
       { text: '成员', link: '/members/' },
+      { text: '值周', link: '/duty/' },
       { text: '关于我们', link: '/aboutUs/' },
     ],
 
@@ -28,6 +29,17 @@ export default defineConfig({
                 { text: '台球桌基本结构示意图', link: '/rules/台球桌基本结构示意图.md' },
                 { text: '八球基本规则及常用细则介绍', link: '/rules/八球基本规则及常用细则介绍.md' },
                 { text: '九球基本规则及常用细则介绍', link: '/rules/九球基本规则及常用细则介绍.md' },
+              ]
+            }
+          ],
+          '/race/': [
+            {
+              text: '段赛信息',
+              items: [
+                { text: '海报', link: '/race/海报.md' },
+                { text: '社长致辞&观赛须知', link: '/race/社长致辞&观赛须知.md' },
+                { text: '赛程', link: '/race/赛程.md' },
+                { text: '规则', link: '/race/规则.md' },
               ]
             }
           ],

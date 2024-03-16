@@ -25,9 +25,9 @@ const members = [
   },
   {
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2797512412&s=640',
-    name: '白熊（不愿透露姓名）',
+    name: '陈梓贤',
     title: '官网的构建者',
-    desc: '设计了logo并搭建了此网站，若有同样需求可以找他',
+    desc: '设计了logo并搭建了此网站，若有同样需求可以找他<br><br>通过邮箱联系（xmfls@0wind.cn）',
     links: [
       { icon: {
           svg: '<svg fill="#000000" width="800px" height="800px" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">\n' +
