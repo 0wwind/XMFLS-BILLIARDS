@@ -50,7 +50,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Copyright © 2024 XMFLS-BILLIARDS',
-      copyright: 'All right reserved'
+      copyright: ' All Rights Reserved'
     },
     docFooter: {
       prev: '上一页',
