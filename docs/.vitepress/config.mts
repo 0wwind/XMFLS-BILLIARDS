@@ -7,6 +7,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/img/XMFLS.png' }],
   ],
+  base:"/XMFLS-BILLIARDS/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: "/img/XMFLS.png", // 页面上显示的logo
