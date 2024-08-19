@@ -46,6 +46,11 @@ const erlingerwu = [
 
 const erlingerliu = [
   {
+    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1437810491&s=640',
+    name: '邱鑫泉',
+    title: '2024-2025台球社社长'
+  },
+  {
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2956774438&s=640',
     name: '王晰',
     title: '2023-2024台球社副社长',
@@ -59,11 +64,6 @@ const erlingerliu = [
   {
     avatar: 'http://q1.qlogo.cn/g?b=qq&nk=2026708129&s=640',
     name: '谢文博',
-    title: '成员'
-  },
-  {
-    avatar: 'http://q1.qlogo.cn/g?b=qq&nk=1437810491&s=640',
-    name: '邱鑫泉',
     title: '成员'
   },
 ];

@@ -5,7 +5,7 @@ export default defineConfig({
   title: "XMFLS-BILLIARDS",
   description: "XMFLS-BILLIARDS WEBSITE",
   head: [
-    ['link', { rel: 'icon', href: '/img/XMFLS.png' }],
+    ['link', { rel: 'icon', href: '/XMFLS-BILLIARDS/img/XMFLS.png' }],
   ],
   base:"/XMFLS-BILLIARDS/",
   themeConfig: {
